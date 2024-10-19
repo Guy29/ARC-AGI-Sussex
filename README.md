@@ -1,6 +1,6 @@
 ## University of Sussex - ARC AGI
 
-This directory contains code written at the University of Sussex which attempts to get closer to a solution of the ARC AGI challenge.
+This project contains code written at the University of Sussex which attempts to get closer to a solution of the ARC AGI challenge.
 
 ## Structure
 
